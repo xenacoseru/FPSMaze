@@ -1,0 +1,25 @@
+{
+  "name": "mazegame",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astonished12/MazePhotonUnity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astonished12/MazePhotonUnity/issues"
+  },
+  "homepage": "https://github.com/astonished12/MazePhotonUnity#readme",
+  "description": "",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mysql": "^2.14.1",
+    "socket.io": "^2.0.3"
+  }
+}
